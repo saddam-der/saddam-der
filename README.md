@@ -13,7 +13,6 @@ My name is Saddam and I'm mostly a backend developer.
 ![postgres](https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white)
 ![mysql](https://img.shields.io/badge/mysql-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white)
 ![git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white) 
-![github](https://img.shields.io/badge/-CI/CD-2D9EA2?&style=for-the-badge) 
 
 <img src="https://github.com/FrozRt/FrozRt/blob/master/proger.gif" width="155" border="0" align="right" alt="side Image" /> &nbsp;  
 Get in touch with me through the attached links:  
