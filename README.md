@@ -11,8 +11,6 @@ My name is Saddam and I'm mostly a backend developer.
 ![vue.js](https://img.shields.io/badge/vuejs%20-%2335495e.svg?&style=for-the-badge&logo=vue.js&logoColor=%234FC08D) 
 ![postgres](https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white)
 ![mysql](https://img.shields.io/badge/mysql-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white)
-![redis](https://img.shields.io/badge/redis%20-%23CC0000.svg?&style=for-the-badge&logo=redis&logoColor=white)
-![rabbitmq](https://img.shields.io/badge/RabbitMQ%20-%23F7DF1E.svg?&style=for-the-badge&color=FF6600)
 ![git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white) 
 ![github](https://img.shields.io/badge/-CI/CD-2D9EA2?&style=for-the-badge) 
 
